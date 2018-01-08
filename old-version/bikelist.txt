@@ -1,0 +1,384 @@
+A00,A-bike
+A01,Abici
+A02,Adler
+A03,AIST
+A04,ALAN
+A05,Alcyon
+A06,Alldays & Onions
+A07,American Bicycle Company
+A08,American Eagle
+A09,American Machine and Foundry
+A10,American Star Bicycle
+A11,Aprilia
+A12,Argon 18
+A13,Ariel
+A14,Atala
+A15,Author
+A16,Avanti
+B01,Baltik vairas
+B02,Bacchetta
+B03,Barnes Cycle Company
+B04,Batavus
+B05,Battaglin
+B06,Berlin & Racycle Manufacturing Company
+B07,BH
+B08,Bianchi
+B09,Bickerton
+B10,Bike Friday
+B11,Bilenky
+B12,Biomega
+B13,Birdy
+B14,BMC
+B15,Boardman Bikes
+B16,Bohemian Bicycles
+B17,Bontrager
+B18,Bootie
+B19,Bottecchia
+B20,Bradbury
+B21,Brasil & Movimento
+B22,Brennabor
+B23,Bridgestone
+B24,British Eagle
+B25,Brodie Bicycles
+B26,Brompton Bicycle
+B27,Brunswick
+B28,BSA
+B29,Burley Design
+C01,Calcott Brothers
+C02,Calfee Design
+C03,Caloi
+C04,Campion Cycle Company
+C05,Cannondale
+C06,Canyon bicycles
+C07,Catrike
+C08,CCM
+C09,Centurion
+C10,Cervélo
+C11,Chater-Lea
+C12,Chicago Bicycle Company
+C13,CHUMBA
+C14,Cilo
+C15,Cinelli
+C16,Clark-Kent
+C17,Claud Butler
+C18,Clément
+C19,Co-Motion Cycles
+C20,Coker
+C21,Colnago
+C22,Columbia Bicycles
+C23,Corima
+C24,Cortina Cycles
+C25,Coventry-Eagle
+C26,Cruzbike
+C27,Cube
+C28,Currys
+C29,Cycle Force Group
+C30,Cycles Devinci
+C31,Cycleuropa Group
+C32,Cyfac
+D01,Dahon
+D02,Dawes Cycles
+D03,Defiance Cycle Company
+D04,Demorest
+D05,Den Beste Sykkel
+D06,Derby Cycle
+D07,De Rosa
+D08,Cycles Devinci
+D09,Di Blasi Industriale
+D10,Diamant
+D11,Diamant
+D12,Diamondback Bicycles
+D13,Dolan Bikes
+D14,Dorel Industries
+D15,Dunelt
+D16,Dynacraft
+E01,Esmaltina
+E02,Eagle Bicycle Manufacturing Company
+E03,Eddy Merckx Cycles
+E04,Electra Bicycle Company
+E05,Ellis Briggs
+E06,Ellsworth Handcrafted Bicycles
+E07,Emilio Bozzi
+E08,Enigma Titanium
+E09,Ērenpreiss Bicycles
+E10,Excelsior
+F01,Falcon Cycles
+F02,Fat City Cycles
+F03,Felt
+F04,Fleetwing -USA
+F05,Flying Pigeon
+F06,Flying Scot
+F07,Focus Bikes
+F08,Cycles Follis
+F09,Folmer & Schwing
+F10,Fondriest
+F11,Fram
+F12,Freddie Grubb
+F13,Fuji Bikes
+F14,Fyxation
+G01,Gary Fisher
+G02,Gazelle
+G03,Gendron Bicycles
+G04,Genesis
+G05,Gepida
+G06,Giant Manufacturing
+G07,Gimson
+G08,Gitane
+G09,Gladiator Cycle Company
+G10,Gnome et Rhône
+G11,Gocycle
+G12,Gormully & Jeffery
+G13,Gräf & Stift
+G14,GT Bicycles
+G15,Guerciotti
+G16,Gustavs Ērenpreis Bicycle Factory
+G17,Gunnar
+H00,Harley-Davidson
+H01,Haro Bikes
+H02,Harry Quinn
+H03,Hase bikes
+H04,Heinkel
+H05,Helkama
+H06,Henley Bicycle Works
+H07,Hercules
+H08,Hercules
+H09,Hero Cycles Ltd
+H10,René Herse
+H11,Hetchins
+H12,Hillman
+H13,Hoffman BMX Bikes
+H14,Hoffmann
+H15,Holdsworth
+H16,Huffy
+H17,Humber
+H18,Hurtu
+H19,Husqvarna
+I00,Ibis
+I01,Ideal Bikes
+I02,Indian
+I03,IFA
+I04,Independent Fabrication
+I05,Iride
+I06,Iron Horse Bicycles
+I07,Islabikes
+I08,Italvega
+I09,Itera
+I10,Ivel Cycle Works
+I11,Iver Johnson
+I12,Iverson
+J00,Jan Janssen
+J01,JMC Bicycles
+J02,Jamis Bicycles
+K00,Kalkhoff
+K01,Kangaroo
+K02,Karbon Kinetics Limited
+K03,K2 Sports
+K04,Kent
+K05,Kestrel USA
+K06,Kettler
+K07,KHS
+K08,Kia
+K09,Kinesis Industry
+K10,Klein
+K11,Koga Miyata
+K12,Kogswell Cycles
+K13,Kona
+K14,Kronan
+K15,Kross
+K16,KTM
+K17,Kuota
+K18,Kuwahara
+L00,Laurin & Klement
+L01,Lapierre
+L02,LeMond
+L03,Alexander Leutner & Co.
+L04,Lightning Cycle Dynamics
+L05,Litespeed
+L06,Look
+L07,Louison Bobet
+L08,Lotus
+M00,Magna
+M01,Malvern Star
+M02,Marin Bikes
+M03,Masi Bicycles
+M04,Matchless
+M05,Matra
+M06,Melon Bicycles
+M07,Mercian Cycles
+M08,Merida Bikes
+M09,Merlin
+M10,Merckx
+M11,Miele bicycles
+M12,Milwaukee Bicycle Co.
+M13,Minerva
+M14,Miyata
+M15,Mochet
+M16,Monark
+M17,Mondia
+M18,Mongoose
+M19,Montague
+M20,Moots Cycles
+M21,Moser Cicli
+M22,Motobécane
+M23,Moulton
+M24,Mountain Equipment Co-op
+M25,Murray
+M26,Muddy Fox
+N00,Nagasawa
+N01,National
+N02,Neil Pryde
+N03,Neobike
+N04,NEXT
+N05,Nishiki and Europe
+N06,Norco
+N07,Norman Cycles
+N08,Novara
+N09,NSU
+N10,Nymanbolagen
+O00,Olive Wheel Company
+O01,Olmo
+O02,Opel
+O03,Orange Mountain Bikes
+O04,Orbea
+O05,Órbita
+O06,Orient Bikes
+O07,Overman Wheel Company
+P00,Pacific Cycle
+P01,Pacific Cycles
+P02,Panasonic
+P03,Pashley Cycles
+P04,Pedersen bicycle
+P05,Pegas
+P06,Peugeot
+P07,Phillips Cycles
+P08,Phoenix
+P09,Pierce Cycle Company
+P10,Pinarello
+P11,Planet X Bikes
+P12,Pocket Bicycles
+P13,Pogliaghi
+P14,Polygon Bikes
+P15,Pope Manufacturing Company
+P16,Premier
+P17,Procycle Group
+P18,Prophete
+P19,Puch
+Q00,Quadrant Cycle Company
+Q01,Quality Bicycle Products
+Q02,Quintana Roo
+R00,R+E Cycles
+R01,Radio Flyer
+R02,Rabasa Cycles
+R03,Raleigh
+R04,Rambler
+R05,Rans Designs
+R06,Razor
+R07,Redline bicycles
+R08,Rhoades Car
+R09,Ridgeback
+R10,Ridley
+R11,Riese und Müller
+R12,RIH
+R13,Riley Cycle Company
+R14,Rivendell Bicycle Works
+R15,Roadmaster
+R16,Roberts Cycles
+R17,Robin Hood
+R18,Rocky Mountain Bicycles
+R19,ROSE Bikes
+R20,Ross
+R21,Rover Company
+R22,Rowbike
+R23,Rudge-Whitworth
+S00,Salcano
+S01,Samchuly
+S02,Santa Cruz Bikes
+S03,Santana Cycles
+S04,Saracen Cycles
+S05,Maskinfabriks-aktiebolaget Scania
+S06,Schwinn Bicycle Company
+S07,SCOTT Sports
+S08,Serotta
+S09,Seven Cycles
+S10,Shelby Cycle Company
+S11,Shimano
+S12,Simpel
+S13,Simson
+S14,Sinclair Research
+S15,Singer
+S16,Softride
+S17,Sohrab
+S18,Solé Bicycle Co.
+S19,Solex
+S20,Solifer
+S21,SOMA Fabrications
+S22,Somec
+S23,Spalding
+S24,Sparta B.V.
+S25,Specialized
+S26,Speedwell bicycles
+S27,Star Cycle Company
+S28,Stearns
+S29,Stelber Cycle Corp
+S30,Stella
+S31,Sterling Bicycle Co.
+S32,Steyr
+S33,Strida
+S34,Sun Cycle & Fittings Co.
+S35,Sunbeam
+S36,Surly Bikes
+S37,Suzuki
+S38,Swift Folder
+S39,Swing Bike
+S40,Syracuse Cycle Company
+T00,Tern
+T01,Terrot
+T02,Thomas
+T03,Thorn Cycles
+T04,Time
+T05,TI Cycles of India
+T06,Titus
+T07,Tommaso bikes
+T08,Torker
+T09,Trek Bicycle Corporation
+T10,Trinx
+T11,Triumph Cycle
+T12,Triumph
+T13,Tube Investments
+T14,Tunturi
+T15,Turner Suspension Bicycles
+U00,Univega
+U01,Uppadine Cycles
+U02,Urago
+V00,Van Dessel Sports
+V01,Velocite Bikes
+V02,Velomotors
+V03,VéloSoleX
+V04,Velo Vie
+V05,Victoria
+V06,Villiger
+V07,Villy Customs
+V08,Vindec
+V09,Vitus
+V10,Volae
+V11,Volagi
+W00,Wanderer
+W01,Waterford Precision Cycles
+W02,Western Flyer
+W03,Westfield Manufacturing
+W04,Whippet
+W05,Wilderness Trail Bikes
+W06,Wilier Triestina
+W07,Witcomb Cycles
+W08,Wittson Custom Ti Cycles
+W09,Worden Bicycles
+W10,Worksman Cycles
+W11,Wright Cycle Company
+W12,Whyte
+X00,Xootr
+Y00,Yamaguchi Bicycles
+Y01,Yamaha
+Y02,Yeti Cycles
+Z00,Zigo
+Z01,Zündapp
+

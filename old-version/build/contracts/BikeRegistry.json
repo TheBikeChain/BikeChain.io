@@ -1,0 +1,203 @@
+{
+  "contract_name": "BikeRegistry",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "hash",
+          "type": "bytes32"
+        },
+        {
+          "name": "code",
+          "type": "string"
+        },
+        {
+          "name": "serialno",
+          "type": "string"
+        },
+        {
+          "name": "count",
+          "type": "uint256"
+        }
+      ],
+      "name": "record",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [
+        {
+          "name": "",
+          "type": "bytes32"
+        }
+      ],
+      "name": "registry",
+      "outputs": [
+        {
+          "name": "code",
+          "type": "string"
+        },
+        {
+          "name": "serialno",
+          "type": "string"
+        },
+        {
+          "name": "count",
+          "type": "uint256"
+        },
+        {
+          "name": "recorded",
+          "type": "bool"
+        }
+      ],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "name": "hash",
+          "type": "bytes32"
+        },
+        {
+          "indexed": false,
+          "name": "serialno",
+          "type": "string"
+        },
+        {
+          "indexed": false,
+          "name": "count",
+          "type": "uint256"
+        }
+      ],
+      "name": "Record",
+      "type": "event"
+    }
+  ],
+  "unlinked_binary": "0x6060604052341561000f57600080fd5b5b6103a28061001f6000396000f300606060405263ffffffff7c01000000000000000000000000000000000000000000000000000000006000350416636755135681146100485780637ef502981461007b575b600080fd5b341561005357600080fd5b6100796004803590602480358082019290810135916044359081019101356064356101a5565b005b341561008657600080fd5b6100916004356102b2565b60405160408101839052811515606082015260808082528554600260001961010060018416150201909116049082018190528190602082019060a08301908890801561011e5780601f106100f35761010080835404028352916020019161011e565b820191906000526020600020905b81548152906001019060200180831161010157829003601f168201915b50508381038252865460026000196101006001841615020190911604808252602090910190879080156101925780601f1061016757610100808354040283529160200191610192565b820191906000526020600020905b81548152906001019060200180831161017557829003601f168201915b5050965050505050505060405180910390f35b60008681526020819052604090206003015460ff1615156101c557600080fd5b60806040519081016040528086868080601f0160208091040260200160405190810160405281815292919060208401838380828437820191505050505050815260200184848080601f016020809104026020016040519081016040528181529291906020840183838082843750505092845250505060208082018490526001604092830152600089815290819052208151819080516102689291602001906102d6565b506020820151816001019080516102839291602001906102d6565b50604082015181600201556060820151600391909101805460ff1916911515919091179055505b505050505050565b60006020819052908152604090206002810154600382015460018301919060ff1684565b828054600181600116156101000203166002900490600052602060002090601f016020900481019282601f1061031757805160ff1916838001178555610344565b82800160010185558215610344579182015b82811115610344578251825591602001919060010190610329565b5b50610351929150610355565b5090565b61037391905b80821115610351576000815560010161035b565b5090565b905600a165627a7a723058209c932c0399e6deacdc03d75f88a06966098c7d9c569bde232bef0799f95cafce0029",
+  "networks": {
+    "1508009235216": {
+      "events": {
+        "0x87070967612c03035df7a1295cba8ea057d777fcac8aedef21afab7a0d85900e": {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": false,
+              "name": "hash",
+              "type": "bytes32"
+            },
+            {
+              "indexed": false,
+              "name": "serialno",
+              "type": "string"
+            },
+            {
+              "indexed": false,
+              "name": "count",
+              "type": "uint256"
+            }
+          ],
+          "name": "Record",
+          "type": "event"
+        }
+      },
+      "links": {},
+      "address": "0x8f48f659f6411ac7a657f2c34b52688201961959",
+      "updated_at": 1508009247726
+    },
+    "1508019021821": {
+      "events": {
+        "0x87070967612c03035df7a1295cba8ea057d777fcac8aedef21afab7a0d85900e": {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": false,
+              "name": "hash",
+              "type": "bytes32"
+            },
+            {
+              "indexed": false,
+              "name": "serialno",
+              "type": "string"
+            },
+            {
+              "indexed": false,
+              "name": "count",
+              "type": "uint256"
+            }
+          ],
+          "name": "Record",
+          "type": "event"
+        }
+      },
+      "links": {},
+      "address": "0x6fa6de1ffd22fb56975c2a0705c53351f96eddb3",
+      "updated_at": 1508019039225
+    },
+    "1508025479495": {
+      "events": {
+        "0x87070967612c03035df7a1295cba8ea057d777fcac8aedef21afab7a0d85900e": {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": false,
+              "name": "hash",
+              "type": "bytes32"
+            },
+            {
+              "indexed": false,
+              "name": "serialno",
+              "type": "string"
+            },
+            {
+              "indexed": false,
+              "name": "count",
+              "type": "uint256"
+            }
+          ],
+          "name": "Record",
+          "type": "event"
+        }
+      },
+      "links": {},
+      "address": "0x042d271f44f255c21a69592cafc85b499b077620",
+      "updated_at": 1508026984151
+    },
+    "1508071828575": {
+      "events": {
+        "0x87070967612c03035df7a1295cba8ea057d777fcac8aedef21afab7a0d85900e": {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": false,
+              "name": "hash",
+              "type": "bytes32"
+            },
+            {
+              "indexed": false,
+              "name": "serialno",
+              "type": "string"
+            },
+            {
+              "indexed": false,
+              "name": "count",
+              "type": "uint256"
+            }
+          ],
+          "name": "Record",
+          "type": "event"
+        }
+      },
+      "links": {},
+      "address": "0xcc4c448618c326af815eb998b9affbf62a73316e",
+      "updated_at": 1508071865467
+    }
+  },
+  "schema_version": "0.0.5",
+  "updated_at": 1508071865467
+}

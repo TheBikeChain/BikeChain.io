@@ -1,0 +1,14 @@
+{
+  "contract_name": "BikeRigistry",
+  "abi": [
+    {
+      "inputs": [],
+      "payable": false,
+      "type": "constructor"
+    }
+  ],
+  "unlinked_binary": "0x60606040523415600e57600080fd5b5b5b5b603680601e6000396000f30060606040525b600080fd00a165627a7a7230582040357d42892608597ef320e2ee6b65d83366ff2a446685a37c4786927a18f37e0029",
+  "networks": {},
+  "schema_version": "0.0.5",
+  "updated_at": 1508071865256
+}
